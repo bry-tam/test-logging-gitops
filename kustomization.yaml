@@ -9,4 +9,4 @@ resources:
   - logging/cl-operatorgroup.yml
   - logging/cl-subscription.yml
   - logging/clusterlogging.yml
-  - logging/elasticsearch.yml
+
